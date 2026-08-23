@@ -1,0 +1,26 @@
+*.iml
+.gradle/
+.kotlin/
+.android-sdk/
+.idea/
+local.properties
+keystore.properties
+build/
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.jks
+*.keystore
+*.apk
+!app/build/outputs/apk/debug/app-debug.apk
+!downloads/
+!downloads/*.apk
+secrets.properties
+polentita-crash.txt
+**/__pycache__/
+*.py[cod]
+
+# Material local del sitio y herramientas de desarrollo
+website/
+serve-apk.sh

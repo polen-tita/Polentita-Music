@@ -1,0 +1,3 @@
+-keep class androidx.media3.session.** { *; }
+-keep class androidx.room.** { *; }
+-dontwarn javax.annotation.**

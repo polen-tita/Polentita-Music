@@ -1,0 +1,23 @@
+{
+  "versionCode": 16,
+  "versionName": "1.0.0",
+  "releaseUrl": "https://github.com/polen-tita/Polentita-Music/releases/latest",
+  "downloads": {
+    "es-arm64-v8a": {
+      "url": "https://github.com/polen-tita/Polentita-Music/releases/download/v1.0.0/PolentitaES.apk",
+      "sha256": "a37f84de1949ea63d27da9b9c74804ef575e9df2dcc39b529329679abf32f7b7"
+    },
+    "es-x86_64": {
+      "url": "https://github.com/polen-tita/Polentita-Music/releases/download/v1.0.0/PolentitaES-x86_64.apk",
+      "sha256": "a0dc21c24ab454aa77006934991f2fe658271d9095b2479873317893a6a59c65"
+    },
+    "en-arm64-v8a": {
+      "url": "https://github.com/polen-tita/Polentita-Music/releases/download/v1.0.0/PolentitaEN.apk",
+      "sha256": "f174f6411e7d6588defe3dc4709fd4468e8f53f2b554765b2dd0412dec2eedf8"
+    },
+    "en-x86_64": {
+      "url": "https://github.com/polen-tita/Polentita-Music/releases/download/v1.0.0/PolentitaEN-x86_64.apk",
+      "sha256": "f26a603e771154690387e6984a04556fc075358ab08f9b577e4ffcc0b86d6d58"
+    }
+  }
+}
