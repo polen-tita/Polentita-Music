@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="#descargar">Descargar</a> ·
-  <a href="https://github.com/polen-tita/Polentita-Music/releases/latest">Ver novedades</a> ·
-  <a href="https://github.com/polen-tita/Polentita-Music">Visitar el proyecto</a>
+  <a href="https://polentita.site/polentita-music">Sitio web</a> ·
+  <a href="https://github.com/polen-tita/Polentita-Music/releases/latest">Ver novedades</a>
 </p>
 
 ## Tu música, en tus manos
@@ -18,6 +18,16 @@
 Polentita Music es un reproductor de música para Android pensado para disfrutar tu biblioteca con libertad, privacidad y una experiencia cuidada. Escucha tus archivos, organízalos y llévalos contigo sin depender de una cuenta ni de una conexión permanente.
 
 Tu biblioteca permanece en el dispositivo. Tú eliges qué música abrir, cómo ordenarla y qué información quieres conservar.
+
+## La experiencia
+
+<table align="center">
+  <tr>
+    <td align="center" width="320">
+      <video src="https://github.com/user-attachments/assets/e85b8064-7b60-4a55-982e-20ef30e0a870" controls></video>
+    </td>
+  </tr>
+</table>
 
 ## Empieza en tres pasos
 
